@@ -38,7 +38,7 @@
          </font>
       </Label>
       <TextField fx:id="idTotal" layoutX="349.0" layoutY="206.0" prefHeight="26.0" prefWidth="54.0" styleClass="label" stylesheets="@application.css" />
-      <Label fx:id="erreur" alignment="CENTER" layoutY="14.0" prefHeight="19.0" prefWidth="465.0" stylesheets="@application.css" textAlignment="CENTER">
+      <Label fx:id="erreur" alignment="CENTER" layoutY="14.0" prefHeight="19.0" prefWidth="465.0" stylesheets="@application.css" textAlignment="CENTER" textFill="#e72626">
          <font>
             <Font size="13.0" />
          </font>
